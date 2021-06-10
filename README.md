@@ -7,4 +7,4 @@
 
 
 
-[knn决策边界探索](https://nbviewer.jupyter.org/github/weiweiwo/data_science_knowledge/blob/main/code%20notebook/knn%EF%BC%88%E5%86%B3%E7%AD%96%E8%BE%B9%E7%95%8C%202%EF%BC%89.ipynb target="_blank")
+[knn决策边界探索](https://nbviewer.jupyter.org/github/weiweiwo/data_science_knowledge/blob/main/code%20notebook/knn%EF%BC%88%E5%86%B3%E7%AD%96%E8%BE%B9%E7%95%8C%202%EF%BC%89.ipynb)
