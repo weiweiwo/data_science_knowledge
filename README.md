@@ -1,6 +1,11 @@
 # data_science
 
-[算法文档](http://www.huaxiaozhuan.com/)\
+## 资料类
+| 标题 | 相关内容|
+| --- | --- |
+|[算法文档](http://www.huaxiaozhuan.com/) | 机器学习、深度学习、数学基础文档|
+|[ML-foundation](https://github.com/jonkrohn/ML-foundations)| 使用python进行数学知识验证 |
+
 [github入门文档](https://docs.github.com/cn/github/writing-on-github/basic-writing-and-formatting-syntax#headings)\
 [jupyter notebook online open](https://nbviewer.jupyter.org/)\
 
