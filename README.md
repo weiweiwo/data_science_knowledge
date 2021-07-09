@@ -22,9 +22,9 @@ jupyter notebook在线打开[jupyter notebook online open](https://nbviewer.jupy
 
 
 ## 工具
-|序列|标题 |相关内容|
-|---|---|---|
-|1|[online epub](https://www.ofoct.com/viewer/epub-reader-online.html)| 在线打开epub |
-|2|[github文档](https://docs.github.com/cn/github/writing-on-github/basic-writing-and-formatting-syntax#headings)|github在线使用手册|
-|3|[pymysql](https://www.cnblogs.com/liwenzhou/p/8032238.html)|pymysql数据库操作文档|
-|4|[AppliedAi](https://github.com/jessxphil/AppliedAiCourse-AssignmentAndNotes)|所有笔记|
+|标题 |相关内容|
+|---|---|
+|[online epub](https://www.ofoct.com/viewer/epub-reader-online.html)| 在线打开epub |
+|[github文档](https://docs.github.com/cn/github/writing-on-github/basic-writing-and-formatting-syntax#headings)|github在线使用手册|
+|[pymysql](https://www.cnblogs.com/liwenzhou/p/8032238.html)|pymysql数据库操作文档|
+|[AppliedAi](https://github.com/jessxphil/AppliedAiCourse-AssignmentAndNotes)|所有笔记|
