@@ -26,3 +26,4 @@ jupyter notebook在线打开[jupyter notebook online open](https://nbviewer.jupy
 |---|---|
 [online epub](https://www.ofoct.com/viewer/epub-reader-online.html)| 在线打开epub |
 |[github文档](https://docs.github.com/cn/github/writing-on-github/basic-writing-and-formatting-syntax#headings)|github在线使用手册|
+|[pymysql](https://www.cnblogs.com/liwenzhou/p/8032238.html)|pymysql数据库操作文档|
