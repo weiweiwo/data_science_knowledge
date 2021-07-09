@@ -1,13 +1,14 @@
 # data_science
 
+jupyter notebook在线打开[jupyter notebook online open](https://nbviewer.jupyter.org/)
 ## 资料类
 | 标题 | 相关内容|
 | --- | --- |
 |[算法文档](http://www.huaxiaozhuan.com/) | 机器学习、深度学习、数学基础文档|
 |[ML-foundation](https://github.com/jonkrohn/ML-foundations)| 使用python进行数学知识验证 |
+|[动手深度学习](https://d2l.ai/)|在线阅读《动手深度学习》与社区讨论|
 
-[github入门文档](https://docs.github.com/cn/github/writing-on-github/basic-writing-and-formatting-syntax#headings)\
-[jupyter notebook online open](https://nbviewer.jupyter.org/)\
+
 
 ## 风控类
 | 标题 | 相关内容|
@@ -24,3 +25,4 @@
 |标题 |相关内容|
 |---|---|
 [online epub](https://www.ofoct.com/viewer/epub-reader-online.html)| 在线打开epub |
+|[github文档](https://docs.github.com/cn/github/writing-on-github/basic-writing-and-formatting-syntax#headings)|github在线使用手册|
