@@ -8,13 +8,17 @@ jupyter notebook在线打开[jupyter notebook online open](https://nbviewer.jupy
 |[ML-foundation](https://github.com/jonkrohn/ML-foundations)| 使用python进行数学知识验证 |
 |[动手深度学习](https://d2l.ai/)|在线阅读《动手深度学习》与社区讨论|
 
+模型度量 36
+
 
 
 ## 风控类
 | 标题 | 相关内容|
 | --- | --- |
 |[反欺诈资料](https://github.com/safe-graph/graph-fraud-detection-papers)| 消费金融相关反欺诈论文模型|
-||1、此处模型验证以1代表好客户，0代表坏客户 2、分别对train与test数据集根据woe图进行分类与连续变量分箱 3、分割出每个特征最低的woe值作为参考|
+1、此处模型验证以1代表好客户，0代表坏客户 
+2、分别对train与test数据集根据woe图进行分类与连续变量分箱 
+3、分割出每个特征最低的woe值作为参考
 
 
 ## 可视化类
