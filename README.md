@@ -16,6 +16,7 @@ jupyter notebook在线打开[jupyter notebook online open](https://nbviewer.jupy
 | 标题 | 相关内容|
 | --- | --- |
 |[反欺诈资料](https://github.com/safe-graph/graph-fraud-detection-papers)| 消费金融相关反欺诈论文模型|
+|[评分卡case2](https://github.com/finlytics-hub/credit_risk_model)|对于case2的详细案例 |
 
 model casel 1\
 1、此处模型验证以1代表好客户，0代表坏客户\
