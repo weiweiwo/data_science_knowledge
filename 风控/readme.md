@@ -1,3 +1,9 @@
+## 风控类
+| 标题 | 相关内容|
+| --- | --- |
+|[反欺诈资料](https://github.com/safe-graph/graph-fraud-detection-papers)| 消费金融相关反欺诈论文模型|
+|[评分卡case2](https://github.com/finlytics-hub/credit_risk_model)|对于case2的详细案例 |
+
 model casel 1\
 1、此处模型验证以1代表好客户，0代表坏客户\
 2、分别对train与test数据集根据woe图进行分类与连续变量分箱\
