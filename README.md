@@ -17,7 +17,7 @@ jupyter notebook在线打开[jupyter notebook online open](https://nbviewer.jupy
 | --- | --- |
 |[反欺诈资料](https://github.com/safe-graph/graph-fraud-detection-papers)| 消费金融相关反欺诈论文模型|
 |[评分卡case2](https://github.com/finlytics-hub/credit_risk_model)|对于case2的详细案例 |
-
+|[optbinning](http://gnpalencia.org/optbinning/tutorials.html#optimal-binning-tutorials)|分类目标、连续目标的分箱记分卡模型整合工具|
 
 ## 可视化类
 | 标题 | 相关内容|
