@@ -7,7 +7,7 @@ jupyter notebook在线打开[jupyter notebook online open](https://nbviewer.jupy
 |[算法文档](http://www.huaxiaozhuan.com/) | 机器学习、深度学习、数学基础文档|
 |[ML-foundation](https://github.com/jonkrohn/ML-foundations)| 使用python进行数学知识验证 |
 |[动手深度学习](https://d2l.ai/)|在线阅读《动手深度学习》与社区讨论|
-|[data_science_book](https://book.mlcompendium.com/)|在线书籍|
+|[data_science_book](https://book.mlcompendium.com/)|The Machine & Deep Learning Compendium|
 
 模型度量 36
 
